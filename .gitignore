@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment and local overrides
+.env
+.env.*
+
+# Dependency/vendor folders
+vendor/
+node_modules/
+
+# Build/cache/temp
+tmp/
+.cache/
